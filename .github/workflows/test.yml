@@ -5,7 +5,7 @@ on:
     - types:
         - synchronize
         - opened
-
+  push:
 
 jobs:
   test:
