@@ -5,6 +5,7 @@ on:
     - synchronize
     - opened
 
+
 jobs:
   test:
     runs-on: ubuntu-latest
